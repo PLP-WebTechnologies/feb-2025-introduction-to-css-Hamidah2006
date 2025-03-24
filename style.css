@@ -1,0 +1,43 @@
+/* Selector 1: Class Selector */
+.header {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #ccc;
+}
+
+/* Selector 2: ID Selector */
+#description {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin: 20px auto;
+    width: 70%;
+    line-height: 1.6;
+}
+
+/* Selector 3: Element Selector */
+img.styled-image {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    border: 3px solid blanchedalmond;
+    border-radius: 8px;
+    width: 300px;
+    height: auto;
+}
+
+/* Typography Improvements */
+.title {
+    font-family: 'Georgia', serif;
+    color: brown;
+    font-size: 2.5rem;
+    margin: 10px 0;
+}
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 1rem;
+    color: blueviolet;
+}
